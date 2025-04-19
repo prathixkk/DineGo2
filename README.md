@@ -1,4 +1,4 @@
-# nawaproject
+# DineGo
 
 A new Flutter project.
 
